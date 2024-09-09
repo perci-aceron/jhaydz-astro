@@ -10,6 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^4.15.4"
+    "@astrojs/preact": "^3.5.3",
+    "@fontsource-variable/playfair-display": "^5.0.26",
+    "@fontsource/poppins": "^5.0.15",
+    "astro": "^4.15.4",
+    "preact": "^10.23.2"
   }
 }
